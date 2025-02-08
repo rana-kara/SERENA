@@ -2,6 +2,7 @@
 
 Introducing SERENA: Study Enhancement and Resource Navigation Assistant. No longer active, but once served a girls-only study Discord server with 2500+ members.
 
+Copyright © 2024 Rana Kara <ranakara2005@gmail.com>
 
 ## ❓ Features
 
